@@ -13,6 +13,7 @@
 - Asyncio
 - Requests / httpx (для запросов к API)
 
+Перед запуском создайте файл .env и укажите в нём TG_TOKEN:
 ## Установка
 ```bash
 git clone https://github.com/Mllleed/money_bot.git
